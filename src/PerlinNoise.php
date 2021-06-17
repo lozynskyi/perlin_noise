@@ -1,13 +1,13 @@
 <?php
 
-namespace App;
+namespace NoiseGenerator;
 
 /**
  * Generates Perlin noise.
  *
  * @package RawTech\Perlin
  */
-class Noise
+class PerlinNoise
 {
     /**
      * Seed 1.
